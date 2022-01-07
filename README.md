@@ -3,7 +3,6 @@
 ### Configuração para rodar o projeto
 
 Install PostgreSQL
-Install PostgreSQL 12 from the official Ubuntu 20.04 repositories.
 
     sudo apt -y install postgresql postgresql-contrib
 
