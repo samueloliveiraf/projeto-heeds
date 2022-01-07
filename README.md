@@ -33,7 +33,8 @@ Intall Python
     
     sudo apt -y install build-essential python3-venv python3-dev libpq-dev
     
--------------------------------------------------------------------
+---------------------------------------------------------------source venv/bin/activate
+----
 ### Os camandos a seguir tem ser executado dentro da pasta projeto
 -------------------------------------------------------------------
    
@@ -43,7 +44,7 @@ Run Project
 
 Active venv
 
-    sourch venv/bin/activate
+    source venv/bin/activate
     
 Install Requirements
 
