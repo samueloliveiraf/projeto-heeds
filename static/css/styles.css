@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+html,
+body {
+    background: #F2F2F2;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+nav {
+    background: linear-gradient(to top, #6F8DB3, #67AEB2) !important;
+}
+
+.btn {
+    background: linear-gradient(to top, #6F8DB3, #67AEB2) !important;
+    border-radius: 26px !important;
+}
+
+.brand-logo {
+    margin-top: 4px;
+}
+
+input:focus {
+    border-bottom: 1px solid #6F8DB3 !important;
+    box-shadow: 0 1px 0 0 #6F8DB3 !important
+}
+
+label {
+    font-size: medium;
+}
+
+.card {
+    padding: 12px !important;
+    text-align: center;
+}
+
+.locale {
+    margin-top: 25px;
+}
+
+form {
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.errorlist {
+    color: rgb(173, 56, 56);
+}
+
+.mapouter {
+    position: relative;
+    width: 100%;
+    height: 73%;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none!important;
+    width: 100%;
+    height: 100%;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+.pagination>.active {
+    background: #F2F2F2 !important;
+    color: #6F8DB3 !important;
+}
+
+i {
+    color: #6F8DB3;
+}
