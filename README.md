@@ -39,7 +39,7 @@ Intall Python
    
 Run Project
 
-    python -m venv venv
+    python3 -m venv venv
 
 Active venv
 
