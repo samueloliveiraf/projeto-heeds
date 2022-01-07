@@ -31,7 +31,7 @@ PostgreSQL
 
 Intall Python
     
-    sudo apt -y install sudo apt install python3 build-essential python3-venv python3-dev libpq-dev python3-pip
+    sudo apt -y install build-essential python3-venv python3-dev libpq-dev
     
 -------------------------------------------------------------------
 ### Os camandos a seguir tem ser executado dentro da pasta projeto
