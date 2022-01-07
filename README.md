@@ -4,7 +4,7 @@
 
 Download Projeto
 
-    git clone 
+    git clone https://github.com/samueloliveiraf/projeto-heeds.git
 
 
 Install PostgreSQL
