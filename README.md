@@ -52,3 +52,24 @@ Install Requirements
 Config .env
 
     touch .env
+    vim .env
+ Exemple: 
+    
+    DB_NAME=dbname
+    DB_USER=postgres
+    DB_PASSWORD=159753got42
+    DB_HOST=localhost
+    DB_PORT=5432
+
+    SECRET_KEY=django-insecure-02s!=^#6cew&ko!%o^y@4x1le8=(uf^mvjjukoii@*cb74qx7q
+    
+-------------------------------------------------------------------
+### A SECRET_KEY acima é a oficial do projeto
+-------------------------------------------------------------------
+
+Comands ends
+
+    python manage.py migrate
+    
+    python manage.py runserver
+
