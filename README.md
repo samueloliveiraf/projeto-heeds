@@ -2,6 +2,10 @@
 ## Trata-se de aplicação Django para gerenciamento de locais visitados...
 ### Configuração para rodar o projeto
 
+Download Projeto
+
+    git clone 
+
 
 Install PostgreSQL
 
@@ -24,3 +28,7 @@ PostgreSQL
     sudo su - postgres
     psql
     CREATE EXTENSION postgis;
+
+Intall Python
+    
+    sudo apt -y install sudo apt install python3 build-essential python3-venv python3-dev libpq-dev python3-pip
