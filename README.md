@@ -19,7 +19,7 @@ PostgreSQL
 
 Install PostGIS
 
-(postgresql-13-postgis-3) a numeração 13 é referente ao a versão do postgres coloque a sua versão ex: (postgresql-12-postgis-3) caso sua vesão seja 12...
+(postgresql-13-postgis-3) a numeração 13 é referente a versão do postgres coloque a sua versão exemple: (postgresql-12-postgis-3) caso sua vesão seja 12...
 
     sudo apt install postgis postgresql-13-postgis-3
 
