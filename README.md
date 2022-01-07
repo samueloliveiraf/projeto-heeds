@@ -71,7 +71,7 @@ Comands ends
 
     python manage.py migrate
     
-    
-    
+Run
+
     python manage.py runserver
 
