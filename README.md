@@ -2,7 +2,7 @@
 ## Trata-se de aplicação Django para gerenciamento de locais visitados...
 ### Configuração para rodar o projeto
 
-Download Projeto
+Download Project
 
     git clone https://github.com/samueloliveiraf/projeto-heeds.git
 
@@ -32,3 +32,23 @@ PostgreSQL
 Intall Python
     
     sudo apt -y install sudo apt install python3 build-essential python3-venv python3-dev libpq-dev python3-pip
+    
+-------------------------------------------------------------------
+### Os camandos a seguir tem ser executado dentro da pasta projeto
+-------------------------------------------------------------------
+   
+Run Project
+
+    python -m venv venv
+
+Active venv
+
+    sourch venv/bin/activate
+    
+Install Requirements
+
+    pip install -r requirements.txt
+
+Config .env
+
+    touch .env
