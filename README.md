@@ -2,6 +2,8 @@
 ## Trata-se de aplicação Django para gerenciamento de locais visitados.
 ### Configuração para rodar o projeto
 
+https://geolocalizacao.online/
+
 Download Project
 
     git clone https://github.com/samueloliveiraf/projeto-heeds.git
