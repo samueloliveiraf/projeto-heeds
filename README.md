@@ -1,5 +1,5 @@
 # Projeto-Heeds 
-## Trata-se de aplicação Django para gerenciamento de locais visitados...
+## Trata-se de aplicação Django para gerenciamento de locais visitados.
 ### Configuração para rodar o projeto
 
 Download Project
@@ -33,9 +33,9 @@ Intall Python
     
     sudo apt -y install build-essential python3-venv python3-dev libpq-dev
     
--------------------------------------------------------------------
-### Os camandos a seguir tem ser executado dentro da pasta projeto
--------------------------------------------------------------------
+---------------------------------------------------------------------
+### Os camandos a seguir tem ser executado dentro da pasta do projeto
+---------------------------------------------------------------------
    
 Run Project
 
