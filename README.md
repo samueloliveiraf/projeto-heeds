@@ -1,8 +1,7 @@
 # Projeto-Heeds 
 ## Trata-se de aplicação Django para gerenciamento de locais visitados.
 ### Configuração para rodar o projeto
-
-Projeto online-> https://geolocalizacao.online/
+### Projeto online-> https://geolocalizacao.online/
 
 Download Project
 
